@@ -16,7 +16,7 @@
     # Ingredients:
         #   Independent ;  created thru Recipe scraper and FDC API. Used for Nutrient Calcs
 
-"""Arrays need '{}' inside '()' around the list of all items"""
+"""Arrays need '{}' inside '()' around the list of all items ; Or just ['',] lol """
 
 recipe_list = [
     {"rec_id":1, "rec_name":'Shrimp', "url":'https://en.wikipedia.org/wiki/Shrimp',
