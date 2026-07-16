@@ -7,11 +7,12 @@ from forms import RegisterForm, LoginForm, MetricsForm    #???
 
 import json
 import csv
+import os
 
 '''-------------------------------------------'''
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'bingbong' #(EX 8BYkEfBA6O6donzWlSihBXox7C0sKR6b)
+app.config['SECRET_KEY'] = os.environ['FLASK_CONFIG_KEY']
 Bootstrap5(app)
 
 '''--------------Home-------------------------------'''

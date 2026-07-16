@@ -43,15 +43,15 @@ query_test = {
 
 # ------------------------------------------------------------------
 
-
 import psycopg2 as pg
 import psycopg2.extras as extras
+import os
 
 conn = pg.connect(
     host="localhost", #localhost or IP Address (127.0.0.1) can be used as well
     port="5432",
     user="postgres",
-    password="Javale32",
+    password=os.getenv('PGSQL_BASE_PW'),
     database="test1") #specify the DB tables are in
 if(conn):
     print("Connected")
