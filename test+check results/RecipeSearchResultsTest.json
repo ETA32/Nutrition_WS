@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "Steaks & Panzanella with Olives & Feta",
+        "Calories": "690",
+        "Nutrients": "x",
+        "Restrictions": "Beef",
+        "Time": "30 minutes",
+        "Method": "Pan, Oven",
+        "URL": "https://www.blueapron.com/recipes/standard-meal-kit/steaks-panzanella-with-olives-feta?page_source=cookbook"
+    },
+    {
+        "Name": "Shrimp Fried Rice with Spicy Mayo",
+        "Calories": "610",
+        "Nutrients": "x",
+        "Restrictions": "",
+        "Time": "25 minutes",
+        "Method": "Pan",
+        "URL": "https://www.blueapron.com/recipes/standard-meal-kit/shrimp-fried-rice-with-spicy-mayo?page_source=cookbook"
+    },
+    {
+        "Name": "Pork Lo Mein with Bok Choy & Celery ",
+        "Calories": "790",
+        "Nutrients": "x",
+        "Restrictions": "Gluten, Pork",
+        "Time": "45 minutes",
+        "Method": "Pan",
+        "URL": "https://www.blueapron.com/recipes/standard-meal-kit/pork-lo-mein-with-bok-choy-celery?page_source=cookbook"
+    },
+    {
+        "Name": "Kung Pao Tofu with Rice & Vegetables",
+        "Calories": "680",
+        "Nutrients": "x",
+        "Restrictions": "Peanuts",
+        "Time": "55 minutes",
+        "Method": "Pan",
+        "URL": "https://www.blueapron.com/recipes/standard-meal-kit/kung-pao-tofu-with-rice-vegetables?page_source=cookbook"
+    },
+    {
+        "Name": "Blueberry Cake with Lemon Glaze",
+        "Calories": "290",
+        "Nutrients": "x",
+        "Restrictions": "Dairy, Gluten",
+        "Time": "25 minutes",
+        "Method": "Oven",
+        "URL": "https://www.blueapron.com/recipes/standard-meal-kit/blueberry-cake-with-lemon-glaze?page_source=cookbook"
+    }
+]

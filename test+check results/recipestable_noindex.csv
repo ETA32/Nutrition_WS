@@ -1,0 +1,511 @@
+total_cook_time,cuisine_type,serving_size,recipe_name
+35.0,"Asian, Chinese",2,"Kung Pao Chicken with Rice, Broccoli & Peanuts"
+25.0,"Asian, Indian",2,Curry-Coconut Roasted Salmon with Green Beans & Pre-Cooked Rice
+35.0,"Asian, Japanese",2,Shrimp Fried Rice with Spicy Mayo
+35.0,"North American, Midwest",2,"Buffalo Chicken Thigh Sandwiches with Ranch Slaw, Crispy Onions & Roasted Potato Wedges"
+30.0,"Asian, Chinese",2,Orange Chili Crisp Salmon over Bok Choy Rice
+35.0,"North American, Other American",2,"Breakfast-for-Dinner Hash & Eggs with Baby Kale, Cheddar & Hot Sauce"
+35.0,"European, Italian",2,"Orecchiette & Pork Ragù with Zucchini, Currants & Nutmeg"
+35.0,"Asian, Other",2,Asian Turkey Lettuce Wraps with Peanut Sauce & Mushrooms
+35.0,"Latin American, Mexican",2,Mexican Shrimp & Zucchini Bake with Rice & Creamy Tomatillo Sauce
+35.0,"European, Italian",2,Baked Eggs in Purgatory with White Beans & Garlic Pitas
+30.0,"North American, Other American",2,"Cheddar, Gouda & Fig Jam Grilled Cheese with Balsamic Blazed Pepper & Blood Orange Salad"
+55.0,"Latin American, Mexican",2,"Tex-Mex Chorizo & Rice Bake with Spinach, Tomatoes & Tomatillo Sauce"
+20.0,"European, Greek",2,"Za'atar Chickpea Salad with Arugula, Feta & Tzatziki Dressing"
+35.0,"North American, Other American",2,Brown Butter Steaks with Creamy Mashed Potatoes & Zesty Lemon Broccoli
+25.0,"Asian, Japanese",2,Sweet & Spicy Beef Noodles with Bok Choy & Shredded Carrots
+25.0,"Middle Eastern, Moroccan",2,"Saucy Harissa Beef Pitas with Tzatziki, Feta & Mint"
+45.0,"North American, Other American",2,Truffle & Fontina Quiche with Mushrooms & Roasted Potato Wedges
+25.0,"North American, Other American",2,Creamy Broccoli Cheddar Soup with Toasted Garlic Baguettes
+15.0,"Latin American, Mexican",2,Smoky Poblano Sausage Tacos with Cilantro-Lime Slaw
+25.0,"Asian, Thai",2,Chicken Satay Rice Bowls with Marinated Veggies & Curry Peanut Sauce
+40.0,"European, Italian",2,Three Cheese Pizza with Caramelized Onion
+20.0,"European, Italian",2,Prosciutto Mozz Sandwiches with Pistachio Pesto & Arugula
+45.0,"European, Italian",2,Crab Cakes & Spicy Caper Sauce with Arugula & Roasted Vegetable Salad
+30.0,"Asian, Other",2,Crispy Sesame Chicken with Scallion Rice & Roasted Broccoli
+20.0,"Latin American, Mexican",2,"Sheet Pan Pulled Chicken Tostadas with Corn, Monterey Jack & Cilantro Slaw"
+35.0,"North American, Other American",2,Balsamic Steaks & Truffle Mashed Potatoes with Crispy Parmesan Brussels Sprouts
+30.0,"European, Italian",2,Roasted Romesco Chicken Sandwiches with Arugula & Creamy Parmesan Dressing
+30.0,"North American, Other American",2,Everything Bagel Salmon with Roasted Potatoes & Cucumber Dill Salad
+30.0,"European, Italian",2,"Shrimp & Fresh Tomato Pasta with Zucchini, Calabrian Chile & Parm"
+35.0,"Middle Eastern, Other",2,"Falafel Pita with Feta, Tzatziki & Harissa Carrot Fries"
+55.0,"North American, Other American",2,Chicken Parm with Basil Fettuccine & Arugula Salad
+5.0,"North American, Southwest/Tex-Mex",1,Creamy Hatch Chile Chicken with Rice & Vegetables
+45.0,"North American, Other American",2,"Honey Mustard Chicken & Farro Salad with Arugula, Carrots & Goat Cheese"
+45.0,"North American, Other American",2,Smoky Gouda Cheeseburgers with Caramelized Onion & Roasted Carrots
+5.0,"European, Italian",1,Sausage & Four-Cheese Ravioli with Peppers
+50.0,"European, French",2,French Onion Soup with Baguette & Grand Cru Cheese
+5.0,"Latin American, Mexican",1,Cheese Enchiladas & Salsa Verde with Rice & Peppers
+6.0,"Asian, Other",1,Teriyaki Salmon Grain Bowl with Vegetables
+5.0,"Asian, Other",1,Chicken & Brown Rice Bowl with Teriyaki Sauce & Vegetables
+30.0,"North American, Southwest/Tex-Mex",2,"Chorizo Enchiladas with Poblano Pepper, Rice & Monterey Jack"
+6.0,"Asian, Thai",1,Veggie Curry with Basmati Rice
+35.0,"Latin American, Mexican",2,Chipotle Veggie Tostadas with Refried Beans & Guacamole
+5.0,"European, Italian",1,"Four-Cheese Ravioli & Red Pepper Sauce with Romano Beans, Pesto & Parmesan"
+6.0,"North American, Other American",1,Chimichurri Salmon Grain Bowl with Asparagus
+5.0,"Latin American, Mexican",1,Four-Cheese Enchiladas with Rice & Vegetables
+5.0,"European, Italian",1,Four-Cheese Ravioli Bolognese with Peas
+6.0,"European, Italian",1,Creamy Red Pepper Fettuccine & Uncured Bacon with Asparagus
+5.0,"Latin American, Mexican",1,Pork Sausage Breakfast Burrito with Potatoes & Pinto Beans
+15.0,"Asian, Japanese",2,Hoisin Pork & Udon Noodle Stir-Fry with Mushrooms & Bell Pepper
+30.0,"Asian, Other",2,Asian Beef Rice Bowls with Spicy Peanut Sauce & Marinated Cucumber
+15.0,"Latin American, Mexican",2,Mexican-Style Shrimp & Street Corn with Cabbage Slaw & Pre-Cooked Rice
+6.0,"Asian, Japanese",1,Chicken & Vegetables with Teriyaki Sauce & Brown Rice
+45.0,"European, Italian",2,"Pesto Gnocchi & Sausage with Mushrooms, Spinach & Mozzarella"
+30.0,"Asian, Other Southeast Asian",2,"Sweet & Spicy Shrimp with Brown Rice, Broccoli & Sesame Seeds"
+5.0,"North American, Southwest/Tex-Mex",1,Chipotle Cheddar Chicken Bowl with Bacon & Southwestern-Style Vegetables
+30.0,"Asian, Other",2,"Sheet Pan Soy-Miso Chicken Thighs with Broccoli, Sweet Potatoes & Sesame Dressing"
+,"North American, Other American",2,Cheesy Chicken & Green Beans with Garlic-Herb Mashed Potatoes
+,"European, Italian",2,Creamy Tomato Gnocchi with Spinach & Mozzarella
+,"European, Italian",2,Chorizo & Creamy Tomato Gnocchi with Parmesan Cheese
+45.0,"Latin American, Mexican",4,Seared Steak Tacos with Cheesy Roasted Potatoes & Tomatillo Sour Cream
+30.0,"Asian, Chinese",2,"Beef Bao Buns & Hoisin Sauce with Mushroom Duxelles, Marinated Cucumber & Creamy Slaw"
+,"European, Italian",4,"Oven-Baked Cheesy Pesto Gnocchi with Spinach, Tomatoes & Currants"
+,"North American, Other American",2,French Onion Cheeseburgers with Roasted Potato Wedges
+,"Asian, Korean",2,Korean-Style Burgers with Marinated Cucumber & Sesame-Dressed Slaw
+,"European, Italian",2,Oven-Baked Spinach & Artichoke Pasta with Pesto & Feta
+,"North American, Southwest/Tex-Mex",4,"Oven-Baked Beef Chili with Pinto Beans, Sour Cream & Crispy Onions"
+,"Asian, Japanese",2,Spicy Sambal Chicken & Rice with Stir-Fried Vegetables 
+40.0,"Asian, Japanese",2,Tofu Katsu & Soy Mayo with Marinated Vegetables & Sautéed Bok Choy
+,"North American, South",2,BBQ Pulled Pork Sandwich with Ranch Dressing & Arugula Salad
+,"European, Spanish",2,Oven-Baked Romesco Beef & Ditali Pasta with Spinach & Tomatoes
+,"European, Italian",2,Calabrian Shrimp & Orzo with Tomatoes & Romano
+,"Asian, Japanese",2,Chili Crisp Pork Udon with Mushrooms & Spinach
+10.0,"European, Italian",2,Prosciutto & Mozzarella Wraps with Arugula & Spicy Fig Mayo
+,"North American, Northeast",2,Pork Chops & Blueberry Bourbon Pan Sauce with Mashed Potatoes & Green Beans
+,"North American, Other American",2,"Cucumber & Tomato Salad with Romaine, Avocado & Honey Habanero Croutons"
+,"North American, Other American",2,"Broccoli & White Bean Grain Bowls with Tzatziki, Red Pepper Pesto & Pre-Cooked Farro"
+,"Asian, Indian",2,"Saag Paneer with Basmati Rice, Naan & Cucumber-Yogurt Sauce"
+35.0,"Middle Eastern, Other",2,"Falafel & Barley Bowls with Baby Kale, Avocado & Pomegranate Dressing"
+,"Middle Eastern, Other",2,Romesco Chicken & Bell Pepper with Currant Couscous
+,"Latin American, Mexican",2,"Oven-Baked Chipotle Eggs & Pinto Beans with Cilantro Sauce, Pitas & Cotija"
+35.0,"European, Italian",2,Chickpea Minestrone Soup with Potatoes & Parmesan
+30.0,"Asian, Indian",2,One-Pan Chickpea & Curry Shakshuka with Tomatoes & Spinach
+,"Asian, Japanese",2,15-Min Hoisin Pork Udon with Mushrooms & Poblano Pepper
+,"Latin American, Mexican",2,Chorizo & Black Bean Tacos with Cilantro Sauce & Sour Cream
+40.0,"North American, Other American",2,"Tomato & Egg Polenta Bake with Cheddar, Truffle Butter & Arugula Salad"
+35.0,"European, Greek",2,"Red Pepper Shrimp & Feta Bake with Spinach, Tomatoes & Orzo"
+,"Asian, Japanese",2,Yuzu Chicken & Brown Rice with Carrots & Bok Choy
+,"Asian, Japanese",2,Miso-Butter Shrimp with Stir-Fried Vegetables 
+35.0,"Asian, Indian",2,Cilantro Paneer & Chickpea Curry with Naan & Crispy Onions
+,"European, Italian",2,Oven-Baked Sausage & Mozzarella Pitas with Arugula & Roasted Red Peppers
+,"North American, Southwest/Tex-Mex",2,Oven-Baked White Bean Chili & Cornbread with Jalapeño Pepper
+,"European, Other",2,"Creamy White Beans & Eggs with Mushrooms, Spinach & Pita"
+,"European, Italian",2,Oven-Baked Italian Sausage & Gnocchi with Creamy Tomato Sauce & Mozzarella
+,"Asian, Other",2,Pan-Fried Tofu & Curry Peanut Noodles with Bok Choy & Carrots
+,"European, Italian",3,Creamy Tomato & Mozzarella Pan Pizza with Arugula Salad & Almonds
+20.0,"Latin American, Mexican",2,Mexican-Style Pulled Pork Rice Bowls with Guajillo Sauce & Toasted Pepitas
+25.0,"Asian, Chinese",2,"Bang Bang Chicken with White Rice, Poblano Pepper & Peanuts"
+,"European, Italian",2,Goat Cheese & Mushroom Pan Pizza with Butter Lettuce Salad & Almonds
+,"North American, Southwest/Tex-Mex",2,Chorizo Quesadillas with Elote-Style Corn on the Cob
+,"Asian, Other Southeast Asian",2,Spicy Chicken & Vegetable Stir-Fry with White Rice
+40.0,"North American, Other American",2,Four Cheese Calzones with Spicy Tomato Sauce & Capers
+,"European, Italian",2,Oven-Baked Creamy Spinach & Artichoke Gnocchi with Goat Cheese
+35.0,"North American, Southwest/Tex-Mex",2,"Spicy Chipotle Shrimp Tacos with Cabbage Slaw, Guac & Sweet Potatoes"
+30.0,"Asian, Japanese",2,"One-Pot Shrimp & Udon with Carrots, Bell Pepper & Sesame-Lime Sauce"
+30.0,"European, Italian",2,Mushroom & Broccoli Alfredo Pasta with Parmesan Cheese
+,"Asian, Chinese",4,Oven-Baked Hoisin Turkey Meatballs & Udon with Green Beans
+35.0,"Middle Eastern, Other",2,"Shawarma Turkey & Feta Meatballs with Couscous, Arugula & Garlic Tahini Sauce"
+25.0,"North American, Other American",2,BLT Salad with Avocado & Everything Bagel Croutons
+,"Latin American, Mexican",4,Oven-Baked Tomatillo Chorizo & Rice with Tomatoes & Golden Raisins
+,"Asian, Chinese",4,Oven-Baked Chicken Thighs & Rice with Snow Peas & Sambal-Soy Sauce
+,"European, Italian",2,Zucchini & Red Pepper Calzones with Mozzarella & Fontina
+,"European, Greek",2,"Oregano White Bean & Farro Bowls with Carrots, Tomatoes & Marinated Feta"
+40.0,"European, Italian",2,"Sheet Pan Cheesy Italian Chicken with Potatoes, Bell Pepper & Parmesan"
+,"European, Italian",2,"Gnocchi & Feta Bake with Romesco Sauce, Tomatoes & Spinach"
+,"European, Italian",2,Tuscan Sausage & Gnocchi with Creamy Romesco Sauce & Spinach
+,"Asian, Japanese",2,Black Garlic-Shoyu Ramen with Green Beans & Shiitake Mushrooms
+,"Asian, Other",2,One-Pan Pork & Udon with Peanut Sauce & Bok Choy
+,"Middle Eastern, Other",2,Pomegranate & Fig Glazed Chicken with Roasted Vegetable Farro & Feta Cheese
+,"European, Italian",2,Tomato Basil Fettuccine with Spinach & Thyme Breadcrumbs
+,"Middle Eastern, Moroccan",2,"Oven-Baked Chickpea Shakshuka with Spinach, Feta & Labneh"
+15.0,"Asian, Korean",2,"Spicy Korean-Style Rice Cakes with Broccoli, Kimchi & Mushrooms"
+,"Asian, Japanese",2,Mushroom Ramen with Bok Choy & Soft-Boiled Eggs
+,"North American, Other American",3,Baked Whole Wheat Rigatoni with Cone Cabbage & Sage
+,"North American, Other American",2,Pork Chops & Fresh Tomato Pan Sauce with Zucchini Rice
+55.0,"North American, Other American",2,Chicken Parm & Crispy Pancetta with Arugula Salad & Toasted Baguette
+,"European, Italian",2,"Oven-Baked Sausage, Pepper & Onion Sandwiches with Broccoli"
+35.0,"Latin American, Mexican",2,Chicken & Poblano Quesadillas with Sweet Potato Wedges & Chimichurri Sour Cream
+45.0,"North American, Northeast",2,Seared Steaks & Balsamic Glazed Mushrooms with Roasted Squash & Potato Wedges
+,"North American, Northeast",2,Seared Salmon & Fall Vegetables with Apple-Brown Butter Vinaigrette
+,"Middle Eastern, Other",2,"Oven-Baked Romesco Beef Pitas with Arugula, Tzatziki & Pickled Peppers"
+,"European, Italian",2,One-Pan Prosciutto Gnocchi with Brussels Sprouts & Lemon
+,"North American, Other American",2,Butter & Soy-Glazed Steaks with Sesame Broccoli & Mashed Potatoes
+35.0,"Asian, Indian",2,Sweet Chili Paneer & Cauliflower with White Rice
+,"Asian, Thai",2,"Oven-Baked Curry Peanut Chicken Thighs with Coconut Rice, Green Beans & Sesame Seeds"
+,"European, Italian",2,Oven-Baked Creamy Spinach & Artichoke Gnocchi with Caramelized Onions & Mozzarella
+30.0,"North American, Other American",2,"Panko-Crusted Cod & Red Pepper Pesto with Carrots, Feta & Pre-Cooked Farro"
+,"North American, South",2,"Oven-Baked Cheesy Chicken Thighs with Rice, Spinach & BBQ Mayo"
+,"Asian, Other",2,"Tamarind Glazed Salmon & Rice with Carrots, Zucchini & Sesame Seeds"
+,"North American, Cajun/Creole",2,Honey-Glazed Salmon with Smoky Habanero Corn & Barley
+45.0,"European, Italian",2,Crab Cakes & Spicy Caper Sauce with Arugula & Roasted Vegetable Salad
+,"Asian, Indian",2,"Chickpea & Paneer Curry Bowls with Brown Rice, Cilantro Sauce & Tamarind Honey"
+,"Asian, Other",2,"Sesame Pork & Cabbage Brown Rice Bowls with Sambal Mayo, Peanuts & Pre-Cooked Rice"
+,"North American, Other American",2,Smoky Cheddar Cheeseburgers with Strawberry Jalapeño-Glazed Onion
+45.0,"North American, Midwest",2,Flank Steaks & Tangy Homemade Steak Sauce with Mashed Potatoes & Sautéed Carrots
+,"Asian, Chinese",2,Pork Lo Mein with Bok Choy & Celery 
+,"European, Italian",2,Oven-Baked Turkey Bolognese with Tomatoes & Mozzarella
+,"European, Italian",2,Five Cheese Ravioli & Crispy Pancetta with Brown Butter Sauce & Arugula-Pear Salad
+,"European, Italian",2,"Gnocchi & Feta with Romesco Sauce, Tomatoes & Spinach"
+,"North American, Other American",2,Bacon Gouda Prime Beef Burgers with BBQ Mayo & Arugula Salad
+40.0,"North American, Other American",2,Chicken & Goat Cheese Sauce over Squash & Romesco Farro
+,"Asian, Korean",2,"Creamy Gochujang Pork & Gnocchi with Kimchi, Spinach & Sesame Seeds"
+,"North American, Other American",2,Hot Honey Chicken with Mashed Potatoes & Carrots
+,"European, Italian",2,Romesco Pork Pasta with Bell Pepper & Parmesan
+,"European, Italian",2,"Roasted Garlic & Lemon Pesto Chicken with Pre-Cooked Farro, Tomatoes & Parmesan"
+,"European, Italian",2,Lumaca Rigata Pasta with Capers & Garlic Bread
+20.0,"North American, Other American",2,"Corn & Refried Bean Tostadas with Cabbage Slaw, Guac & Jalapeños"
+,"Asian, Korean",3,Korean Beef Steam Buns with Sweet Potato Tempura & Spicy Mayonnaise
+,"European, Italian",2,Steaks & Panzanella with Olives & Feta
+,"Asian, Chinese",2,Cumin-Sichuan Pork Meatloaf with Bok Choy & Sesame Roasted Potatoes
+,"Asian, Chinese",2,"Hoisin-Garlic Chicken with Rice, Bok Choy & Peanuts"
+30.0,"Asian, Japanese",2,Sesame-Ponzu Salmon & Brown Rice Bowls with Avocado & Marinated Vegetables
+35.0,"North American, Midwest",2,Pork Chops & Honey Mustard Glazed Pear with Roasted Squash & Brussels Sprouts
+,"European, Italian",2,Three Cheese Lasagna with Pesto & Spinach
+,"Asian, Japanese",4,Oven-Baked Sweet Chili Udon & Vegetables with Coconut Chips & Sesame Seeds
+,"Latin American, Mexican",2,"Oven-Baked Chicken Tacos with Guacamole, Guajillo Sauce & Jalapeño"
+,"European, Italian",2,Pesto Gnocchi with Mushrooms & Almond Breadcrumbs
+,"North American, Other American",2,Cheesy Zucchini & Onion Quiche with Seasoned Potato Wedges & Labneh
+,"North American, Other American",2,Philly-Style Cheesesteaks with Roasted Potato Wedges
+,"Asian, Japanese",2,Oven-Baked Miso-Maple Chicken Thighs & Rice with Mushrooms & Green Beans
+,"European, Italian",2,Pesto Fusilli Pasta with Fresh Tomatoes & Corn
+,"Asian, Other",2,"Oven-Baked Turkey & Mushroom Lettuce Cups with Rice, Spicy Mayo & Togarashi"
+,"Asian, Indian",2,Oven-Baked Paneer & Chickpea Curry with Naan
+,"North American, Midwest",2,Cheesy Egg & Chorizo Skillet with Pre-Cooked Sweet Potatoes & Cilantro Sour Cream
+,"Asian, Indian",2,Chicken & Chickpea Curry with Cooked Brown Rice & Labneh
+,"European, Italian",3,Italian-Spiced Pork Pizza with Sautéed Onion & Bell Pepper
+30.0,"European, Greek",2,Roasted Squash & Chickpea Salad with Feta Cheese & Fig-Pomegranate Dressing
+,"Latin American, Mexican",2,"Mexican-Spiced Salmon & Cilantro Sauce with Quinoa, Shishito Peppers & Orange "
+25.0,"Asian, Korean",2,Korean-Style Pork & Rice Cakes with Bok Choy & Sesame Seeds
+20.0,"European, French",2,"Caprese Croissant Sandwiches with Pesto Mayo, Arugula & Balsamic Onions"
+,"North American, Cajun/Creole",2,"Sheet Pan Cajun Salmon with Asparagus, Sweet Potato & Spiced Sour Cream"
+,"European, Italian",2,"Oven-Baked Pesto Chicken & Orzo with Spinach, Tomatoes & Ricotta"
+,"European, Italian",2,Creamy Mushroom & Pancetta Rigatoni with Truffle Zest & Parmesan
+35.0,"North American, Other American",2,Roasted Chicken & Cheesy Ancho Chile Topping with Green Beans & Chipotle Butter Toast
+,"Asian, Other",2,Roasted Pork Chops & Ponzu Broccoli with Garlic Onion Dressing & Pre-Cooked Brown Rice
+,"Latin American, Mexican",2,Spicy Veracruz-Style Shrimp with Brown Rice
+,"European, Italian",2,Oven-Baked White Bean Shakshuka with Garlic Pitas
+,"European, Italian",2,Oven-Baked Italian Sausage & Gnocchi with Mozzarella & Tomatoes
+30.0,"European, Italian",2,Italian Sausage & Broccoli Pasta with Fried Sage & Parmesan
+,"Latin American, Mexican",2,Oven-Baked Chorizo & Black Bean Tacos with Sour Cream & Monterey Jack
+,"North American, Southwest/Tex-Mex",2,Oven-Baked Beef & Pinto Bean Chili with Spinach & Sour Cream
+,"European, Italian",2,Cheesy Italian Chicken with Garlic-Herb Sweet Potatoes & Green Beans
+25.0,"European, Italian",2,"One-Pot Creamy Pesto Bolognese with Mushrooms, Spinach & Cavatappi"
+15.0,"European, Italian",2,"Hot Sausage & Creamy Romesco Pasta with Spinach, Bell Pepper & Pesto Tortellini"
+35.0,"Asian, Other",2,"Sweet Paprika Roasted Salmon with Garlic Rice, Broccoli & Ponzu Mayo"
+40.0,"Asian, Other",2,Asian-Inspired Pork Meatloaf with Bok Choy & Sesame Mashed Potatoes
+,"European, Italian",2,Seared Steaks & Aioli with Crispy Gnocchi & Sautéed Green Beans
+,"European, Italian",4,Oven-Baked Hot Italian Sausage & Gnocchi with Mozzarella & Tomatoes
+,"Asian, Japanese",2,Salmon & Sushi Rice Bowls with Avocado & Spicy Mayo
+,"Asian, Other",2,Sheet Pan Pork & Hoisin Glazed Pear with Sesame Roasted Potatoes & Carrots
+30.0,"Asian, Other",2,Bánh Mì-Style Pork Belly Bao Buns with Jalapeño & Cilantro
+,"North American, South",2,Oven-Baked BBQ Chicken Thighs & Farro with Crispy Onions
+45.0,"European, Italian",2,"Spicy Sausage Meatball & Pasta Bake with Baby Kale, Artichokes & Pesto Tortellini"
+,"European, Italian",3,Pesto Pan Pizza with Arugula Salad & Almonds
+45.0,"North American, Southwest/Tex-Mex",2,"Smoky Poblano Sausage Gnocchi with Corn, Tomatoes & Monterey Jack"
+,"European, Italian",2,Spicy Sausage Bucatini with Mushrooms & Parmesan Cheese
+40.0,"North American, Other American",2,"Three Cheese Pizza with Mozzarella, Fontina & Parmesan"
+35.0,"European, Italian",2,"Pork Chops & Fig-Sherry Pan Sauce with Roasted Potatoes, Pepper & Onion"
+25.0,"Asian, Korean",2,Beef & Bok Choy Stir-Fry with Marinated Radishes & Spicy Mayo
+,,2,Chicken Piccata with Fresh Linguine Pasta & Garlic Chives
+,"European, Italian",2,Roasted Red Pepper Pasta with Roasted Broccoli & Parmesan
+,"European, Italian",2,Penne Pasta & Beef Bolognese with Pecorino Cheese
+,,2,Fusilli Con Buco Pasta with Summer Squash & Mint
+,"European, Italian",2,Roasted Red Pepper Pasta with Cauliflower & Ricotta Cheese
+,"European, Italian",2,Oven-Baked Pesto Gnocchi & Sausage with Mushrooms & Mozzarella
+,"Middle Eastern, Other",4,"Oven-Baked Green Shakshuka with White Beans, Cilantro Sauce & Pita"
+,"European, Italian",2,"Fusilli Bucati Pasta with Summer Squash, Corn, & Tomatoes"
+35.0,"North American, Other American",2,Brown Butter Steaks & Fried Rosemary with Garlic Mashed Potatoes & Roasted Veggies
+25.0,"Asian, Chinese",2,Sweet & Spicy Pork Noodles with Bell Pepper & Peanuts
+40.0,"European, Italian",2,Five Cheese Ravioli & Truffle Sauce with Mushrooms & Pancetta
+40.0,"Latin American, Mexican",2,"Mexican-Spiced Stuffed Squash with Brown Rice, Peppers & Guacamole"
+35.0,"North American, Other American",2,Buffalo Chicken & Ranch Dressing with Broccoli & Garlic-Herb Bread
+,"Middle Eastern, Moroccan",2,"Chickpea Shakshuka with Spinach, Feta & Labneh"
+,"European, Italian",2,"Oven-Baked Gnocchi Mac & Cheese with Spinach, Mushrooms & Breadcrumbs"
+,"European, Italian",3,Mushroom & Shallot White Pizza with Hot Honey
+25.0,"Asian, Other",2,One-Pot Beef & Udon Noodles with Bok Choy & Bell Pepper
+35.0,"European, Italian",2,"Gnocchi Mac & Cheese Bake with Spinach, Mushrooms & Breadcrumbs"
+35.0,"European, Italian",2,Italian Chicken & Creamy Tomato Sauce over Garlic Butter Orzo & Zucchini
+,"European, Italian",2,"Oven-Baked Salsa Verde Orzo & Eggs with Feta, Tomatoes & Spinach"
+,"North American, Southwest/Tex-Mex",2,Squash & Pinto Bean Tacos with Cheese & Cilantro Sour Cream
+25.0,"European, Italian",2,Roasted Red Pepper Pasta with Broccoli & Ricotta Cheese
+35.0,"North American, Other American",2,"Fall Baby Kale & Apple Salad with Roasted Squash, Chickpeas & Goat Cheese"
+,"North American, Northeast",2,Seared Steaks & Caper Butter with Mashed Potatoes & Roasted Brussels Sprouts
+30.0,"Middle Eastern, Other",2,"Baked Salmon & Harissa Chickpeas with Broccoli, Dill & Labneh"
+,,2,Beef on Weck Sandwiches with Heirloom Potato Salad
+,"North American, South",2,"Sheet Pan Cheesy Chicken with Broccoli, Sweet Potatoes & BBQ Mayo"
+,"European, Italian",2,Mushroom & Panko-Crusted Chicken Thighs with Garlic-Herb Rice & Spinach
+,"Latin American, Mexican",2,Chipotle-Lime Chicken Fajitas with Sautéed Mushrooms & Onion 
+30.0,"European, Italian",2,"Seared Salmon & Lemon-Caper Sauce with Farro, Baby Kale & Bell Pepper"
+,"European, Italian",2,Seared Cod & Peppers over Creamy Rice 
+25.0,"European, Italian",2,"Shrimp & Romesco Fettuccine with Spinach, Tomatoes & Red Pepper Pesto"
+,"Latin American, Mexican",2,"Mexican-Style Beef & Rice Bowls with Spiced Corn, Lime Mayo & Cotija Cheese"
+,"Middle Eastern, Other",4,Oven-Baked Shawarma Beef & Couscous with Tzatziki & Almonds
+,"European, Italian",2,Fresh Basil Fettuccine with Datterini Tomatoes & Goat Cheese
+35.0,"Asian, Other",2,"Asian Pork Rice Bowls with Bok Choy, Ginger & Scallions"
+,"North American, Southwest/Tex-Mex",2,Spicy Poblano Sausage Pasta with Corn & Jalapeño
+,"European, Italian",4,"Oven-Baked Pesto Pasta with Spinach, Tomatoes & Calabrian Ricotta"
+,"Latin American, Mexican",2,Chipotle Pork Enchiladas with Cheddar Cheese & Cilantro Sour Cream
+25.0,"Asian, Chinese",2,"Pork Sesame Noodles with Bok Choy, Garlic & Ginger"
+40.0,"European, Italian",2,Chicken & Red Pepper Romesco with Creamy Parmesan Orzo & Zucchini
+,"European, Italian",3,Pesto & Roasted Red Pepper Pan Pizza with Arugula Salad & Almonds
+,"Asian, Korean",2,"Kimchi Rice & Eggs with Spinach, Mushrooms & Spicy Garlic Sauce"
+35.0,"Middle Eastern, Moroccan",2,"Moroccan-Style Chicken & Couscous with Romesco, Dates & Yogurt"
+45.0,"Latin American, Mexican",2,Cheesy Squash & Chorizo Bake with Sour Cream & White Rice
+15.0,"Asian, Korean",2,Cheesy Pork & Rice Cakes with Mushrooms & Kimchi
+,"North American, Southwest/Tex-Mex",2,Oven-Baked Smoky Poblano Sausage Gnocchi with Tomatoes & Monterey Jack
+35.0,"North American, Other American",2,Hot Honey Chicken with Scallion Mashed Potatoes & Roasted Carrots
+,"Asian, Indian",2,Chicken & Chickpea Curry with Naan
+,"Latin American, Mexican",2,Oven-Baked Squash & Black Bean Tacos with Sour Cream & Crispy Onions
+,"Asian, Korean",2,Kimchi Butter Shrimp with Garlic Rice & Sesame Vegetables
+,"North American, Southwest/Tex-Mex",2,Oven-Baked Squash & Pinto Bean Tacos with Cheese & Cilantro Sour Cream
+,"Latin American, Mexican",2,Tomatillo Chorizo & Rice with Tomatoes & Golden Raisins
+,"Latin American, Mexican",2,"Oven-Baked Mexican-Spiced Chicken Thighs with Rice, Black Beans & Tomatillo Sauce"
+,"Asian, Japanese",2,15-Min Shrimp & Orange-Chili Noodles with Bok Choy & Sesame Seeds
+,,2,"Summer Udon Noodle Salad with Cherry Tomatoes, Corn & Summer Sweet Pepper"
+,"Latin American, Mexican",2,"Mexican Stuffed Sweet Potatoes with Cheesy Black Beans, Cilantro Sauce & Sour Cream"
+,"North American, Other American",2,"Baked Creamy Mushroom & Kale Pasta with Garlic Pesto, Truffle Zest & Pre-Cooked Rigatoni"
+,"Asian, Thai",2,"Oven-Baked Curry Peanut Chicken with Coconut Rice, Green Beans & Sesame Seeds"
+,"Asian, Indian",2,"Oven-Baked Beef & Curry Rice with Spinach, Cilantro Sauce & Peanuts"
+,"North American, Other American",2,Oven-Baked Chicken & Garlic Butter Rice with Spinach & Pickled Peppers
+35.0,"North American, Northeast",2,Chicken & Delicata Squash Salad with Baby Kale & Fig-Mustard Dressing
+40.0,"North American, Other American",2,Balsamic Chicken & Roasted Vegetables with Spicy Honey Butter
+40.0,"North American, Other American",2,Caramelized Onion Burgers with Spicy Special Sauce & Cheesy Potatoes
+,"Asian, Chinese",2,Moo Shu Vegetables with Pancakes & Plum Sauce
+,"North American, Midwest",2,Pretzel Burgers & Cheddar Cheese Sauce with Roasted Onion & Sweet Potato
+,"Asian, Thai",2,"Curry Peanut Chicken Thighs with Rice, Snow Peas & Sesame Seeds"
+,"Asian, Korean",2,"Crispy Korean-Style Chicken with Rice, Kimchi & Sesame Seeds"
+,"European, Spanish",2,Oven-Baked Spanish Chorizo Rice with Peppers & Creamy Fig Sauce
+,"Asian, Korean",4,"Oven-Baked Korean Eggs & Rice with Spinach, Kimchi & Sesame Seeds"
+,"Latin American, Mexican",2,Lime-Honey Chicken & Farro Bowl with Sweet Corn & Poblano Pepper
+,"European, Spanish",2,"Oven-Baked Chicken & Romesco Couscous with Tomatoes, Currants & Labneh"
+,"European, Italian",2,Creamy Tomato Banza Chickpea Pasta with Mushrooms & Sweet Peppers
+,"European, Italian",2,15-Min Creamy Mushroom & Pancetta Pasta with Truffle Zest & Pre-Cooked Rigatoni
+,"North American, Other American",2,Broccoli & Sweet Pepper Fried Rice with Sunny Side-Up Eggs
+35.0,"European, Italian",2,Italian Chicken & Romesco Pasta Bake with Spinach & Artichokes
+,,2,Corn & Arugula Salad with Balsamic Marinated Tomatoes
+,"North American, South",2,"Oven-Baked Barbecue Chicken Thighs with Cheese, Rice & Tomatoes"
+,"North American, Northeast",2,Grilled Goat Cheese & Plum Jam Sandwiches with Endive & Marinated Cucumber Salad
+,"Asian, Chinese",2,Soy-Glazed Chicken Thighs with Green Beans & Crispy Onion Rice
+30.0,"North American, Other American",2,"Winter Harvest Grain Bowls with Roasted Chickpeas, Squash & Cooked Brown Rice Blend"
+,"North American, Northeast",2,"Pork Schnitzel & Arugula Salad with Pancetta, Corn & Potatoes"
+,"Asian, Chinese",2,Oven-Baked Sweet Chili Chicken with Aromatic Rice & Green Beans
+50.0,"Asian, Other",2,"Sheet Pan Soy-Glazed Pork Roast with Sesame Potatoes, Carrots & Radishes"
+,"North American, Other American",2,Seared Steaks & Hot Honey Biscuits with Glazed Shallot & Roasted Asparagus
+25.0,"European, Greek",2,Chicken & Greek Salad Wraps with Tzatziki & Feta
+,,2,"Shaved Fennel & Pecorino Salad with Lollo Rosso, Farro & Lemon Vinaigrette"
+35.0,"Asian, Other",2,"Glazed Pork Belly & Mushroom Bao Buns with Sweet Chili Mayo, Cabbage Slaw & Peanuts"
+,"North American, Other American",2,"BBQ Cheeseburgers with Sweet Potatoes, Sour Cream & Jalapeño"
+,"European, Italian",2,"15-Min Spicy Sausage Pasta with Spinach, Romano & Pre-Cooked Rigatoni"
+25.0,"European, Italian",2,Spicy Shrimp & Orzo with Tomatoes & Parmesan
+15.0,"European, Greek",2,Za'atar White Bean Grain Bowls with Pre-Cooked Quinoa & Cilantro Tahini Dressing
+,"Latin American, Mexican",2,Cheesy Potato Hash & Eggs with Poblano Pepper & Lime Sour Cream
+,"Middle Eastern, Moroccan",2,"Loaded Chicken Thigh Pitas with Arugula, Tzatziki & Feta"
+,"Middle Eastern, Moroccan",2,"Oven-Baked Harissa Beef Pitas with Tzatziki, Feta & Mint"
+,"European, Other",2,"Oven-Baked Creamy White Beans & Eggs with Mushrooms, Spinach & Pita"
+,"North American, Other American",2,"Pork Roast & Balsamic Pan Sauce with Farro, Brussels Sprouts & Goat Cheese"
+,"Asian, Japanese",2,Chili Crisp Pork Udon with Mushrooms & Bok Choy
+20.0,"North American, Southwest/Tex-Mex",2,"Baked Cilantro Chicken Tacos with Corn, Tomatoes & Sour Cream"
+55.0,"Asian, Chinese",2,Kung Pao Tofu with Rice & Vegetables
+45.0,"North American, Other American",2,Baked Tomato & Corn Gnocchi with Goat Cheese & Red Pepper Pesto
+,"Asian, Korean",2,Korean Tofu & Kimchi Rice Bowls with Marinated Carrots & Bok Choy
+,"Asian, Indian",2,Paneer & Chickpea Curry with Pre-Cooked Rice & Cashews
+,"European, Spanish",2,"Steaks & Spanish-Style Potatoes with Pepper, Onion & Garlic Aioli"
+0.0,"European, Italian",2,Crispy Prosciutto & Lemon Pesto Pasta with Broccoli & Parmesan
+,,2,Beef Ramen Noodle Soup with Choy Sum and Enoki Mushrooms
+,"North American, Other American",2,Fried Feta & Kale Salad with Pear & Roasted Sweet Potato
+30.0,"European, Spanish",2,Crispy Baked Cod & Vegetable Orzo with Creamy Romesco Sauce
+,"European, Italian",2,"Creamy Corn & Tomato Pasta with Garlic Pesto, Parmesan & Pre-Cooked Rigatoni"
+,"Asian, Chinese",2,Vegetable Lo Mein with Bok Choy & Carrots
+,"Asian, Chinese",2,Hoisin Pork & Jalapeño Steam Buns with Ponzu-Dressed Shishito Peppers
+,"European, Italian",2,Oven-Baked Cheesy Tomato Gnocchi with Calabrian Chile & Spinach
+,,2,"Yuzu Kosho-Glazed Chicken Drumsticks with Shiitake Mushrooms, Turnip & Rice Salad"
+,"Latin American, Mexican",4,"Oven-Baked Mexican-Spiced Shrimp with Cilantro Rice, Pepitas & Sour Cream"
+30.0,"North American, Northeast",2,"Roasted Salmon & Veggies with Pesto, Baby Potatoes & Garlic Butter"
+,"European, Italian",2,"Oven-Baked Chicken Thighs & Couscous with Salsa Verde, Feta & Artichokes"
+,"North American, Other American",2,Oven-Baked Beef & Biscuit Casserole with Caramelized Onions
+,"Asian, Indian",2,Oven-Baked Chicken & Chickpea Curry with Naan
+35.0,"European, Italian",2,Cheesy Garlic Chicken with Broccoli & Truffle Butter Toast
+30.0,"European, Italian",2,"Hand-Cut Pappardelle & Pulled Pork Ragù with Olives, Rosemary & Ricotta"
+,,6,"Holiday Roast Box with Beef Tenderloin, Sides & Apple-Cranberry Trifle"
+30.0,"European, Italian",2,Prosciutto Pizza Sandwiches with Mozzarella & Basil Pesto
+,"European, Spanish",2,Smoky Pork Sausage Burgers with Shishito Peppers & Fig Mayo
+,"European, Italian",2,"Chicken Paillard with Potato, Fennel & Meyer Lemon Sauce"
+,"European, Italian",2,Garlic-Caper Chicken with Fettuccine & Zucchini
+,"North American, Other American",2,Spicy BBQ-Glazed Pork Meatloaf with Mashed Potatoes & Green Beans
+,"North American, Other American",2,Oven-Baked Barbecue Cheeseburgers with Asparagus
+,"Asian, Korean",2,"Korean-Style Pulled Pork Tacos with Mushrooms, Kimchi Slaw & Sesame Seeds"
+,"European, Italian",2,Cheesy Pesto Gnocchi with Spinach & Tomatoes
+35.0,"North American, Northeast",2,Maple-Sage Pork Roast with Buttermilk Mashed Potatoes & Roasted Carrots
+40.0,"European, Italian",2,"Pesto Gnocchi Bake with Spinach, Tomatoes & Mozzarella"
+,"European, Italian",2,"Hand-Cut Pappardelle with Corn, Tomatoes & Romano Cheese"
+,"European, Italian",2,"Seared Salmon & Lemon-Caper Sauce with Farro, Kale & Pickled Peppers"
+35.0,"Latin American, Mexican",2,"Cheesy Baked Chicken & Peppers with Guajillo Sauce, Guacamole & Rice"
+,"Latin American, Mexican",2,Crispy Cod Tacos with Chipotle-Cabbage Slaw
+,"North American, Northeast",2,"Baked Salmon & Creamy Caper Sauce with Zucchini, Dill & Pre-Cooked Farro"
+45.0,"North American, Midwest",2,Broccoli & Cheddar Quiche with Seasoned Potato Wedges
+,"European, Italian",2,Creamy Pasta & Kale with Fried Rosemary & Walnuts
+40.0,"North American, Other American",2,Baked Pesto Cheesy Chicken with Garlic Bread & Green Beans
+15.0,"North American, Other American",2,Baby Kale & Goat Cheese Salad with Dried Cherries & Spicy Maple Nuts
+35.0,"Middle Eastern, Other",2,"Crispy Feta Chicken & Broccoli with Tzatziki, Hot Honey & Pitas"
+45.0,"North American, Other American",2,Cheddar Stuffed Prime Beef Burger with Glazed Mushrooms & Crispy Onions
+25.0,"Asian, Indian",2,Curry Chicken & Vegetables with White Rice & Crispy Onions
+,"North American, Other American",2,Pork Roast & Maple-Peach Compote with Green Beans & Mashed Potatoes
+30.0,"North American, South",2,Pimento Cheeseburgers with Roasted Potatoes
+,"North American, Northeast",8,Blueberry Cake with Lemon Glaze
+,"Asian, Japanese",2,Crispy Pan-Fried Ramen with Soft-Boiled Eggs
+,"European, Italian",2,"Artichoke, Caper & Dijon Chicken with Mashed Potatoes & Green Beans"
+25.0,"Asian, Other",2,"Pork & Mushroom Lettuce Cups with Hoisin Chili Sauce, Peanuts & Brown Rice"
+,"European, Italian",2,Crispy Prosciutto & Lemon Pesto Pasta with Asparagus & Parmesan
+,"North American, Other American",2,Baked Honey Mustard Chicken Thighs with Parmesan Brussels Sprouts & Garlic Bread
+35.0,"Asian, Indian",2,Chicken & Chickpea Curry with Garlic Butter Naan
+35.0,"European, Greek",2,Za'atar Crusted Salmon with Veggie Couscous & Labneh
+15.0,"Asian, Japanese",2,"Peanut Udon Stir-Fry with Mushrooms, Snow Peas & Shredded Cabbage"
+,"Asian, Korean",2,"Oven-Baked Kimchi Rice & Eggs with Spinach, Mushrooms & Spicy Sesame Sauce"
+,,2,Tofu & Chinese Broccoli with Soba Noodles
+,"Asian, Korean",2,"Oven-Baked Kimchi Rice & Eggs with Spinach, Snap Peas & Gochujang Sauce"
+,,2,Prosciutto & Mozzarella Sandwiches with Calabrian Mayo
+,"North American, Other American",2,Corn & Red Pepper Whole Grain Pasta with Calabrian Chile & Pistachios
+40.0,"Asian, Thai",2,Sweet Chili Coconut Shrimp with Bok Choy & Pre-Cooked Jasmine Rice
+,"European, Italian",4,Oven-Baked Three Cheese Lasagna with Pesto & Spinach
+,"Asian, Other",2,"Hoisin Shrimp Lettuce Cups with Scallion Rice, Marinated Carrots & Peanuts"
+,"Asian, Indian",2,Vadouvan Chicken & Mango Chutney Sauce with Green Beans & Mustard Seed Rice
+,"European, Italian",2,"Seared Barramundi with Collard Greens, Fregola Sarda & Shallot Agrodolce"
+30.0,"North American, Midwest",2,"Juicy Lucy Prime Beef Burgers with Gouda, Dijonnaise & Pickles"
+,"North American, Northeast",2,"Roasted Pork & Broccoli with Apple, Cheese Sauce, & Garlic Breadcrumbs"
+25.0,"Latin American, Mexican",2,Ancho-Honey Baked Beef Tacos with Creamy Corn & Cilantro
+,"North American, Other American",2,Lemon-Caper Salmon with Scallion Mashed Potatoes & Roasted Green Beans
+45.0,"North American, Southwest/Tex-Mex",2,Smoky Bacon & Rice Stuffed Poblanos with Melted Cheese & Lime Sour Cream
+45.0,"Latin American, Mexican",2,Spicy Mushroom & Onion Quesadillas with Creamy Guacamole
+,"Latin American, Mexican",2,"Oven-Baked Chorizo Cheeseburgers with Guacamole, Jalapeño & Broccoli"
+30.0,"Latin American, Mexican",2,"Pinto Bean & Shishito Grain Bowls with Cilantro, Chipotle Butter & Brown Rice"
+,"North American, Other American",2,"15-Min Buffalo Pulled Chicken Sandwich with Pickles, Ranch & Cabbage Slaw"
+,"North American, Other American",2,BLT Pasta Salad with Creamy Everything Bagel Dressing
+,"North American, Other American",2,Curry Chicken Salad Sandwiches with Grapes & Cashews
+,,0,Chicken Tikka Masala with Minted Cucumber Salad & Naan
+35.0,"Middle Eastern, Other",2,"Lime & Date Chicken with Vegetable Farro, Pistachios & Labneh"
+45.0,"North American, Northeast",2,Balsamic-Cherry Chicken with Mashed Potatoes & Green Beans
+25.0,"Middle Eastern, Other",2,"Romesco Chicken & Vegetables with Currant Couscous, Olives & Labneh"
+35.0,"European, Italian",2,Seared Pork Chops & Mashed Potatoes with Creamy Kale & Shallot
+,"European, Italian",2,"Romesco Lasagna with Mozzarella, Spinach & Roasted Red Peppers"
+,"European, Italian",2,Oven-Baked Creamy Tomato & Sausage Pasta with Spinach & Ricotta
+,"European, Italian",2,Creamy Pesto Chicken & Orzo with Capers & Currants
+35.0,"Asian, Chinese",2,"One-Pot Spicy Pork Udon with Mushrooms, Bok Choy & Sesame Seeds"
+,"Latin American, Mexican",2,Guajillo Beef & Rice with Fresh Tomato Salsa & Cotija Cheese
+35.0,"Asian, Other",2,Sheet Pan Gochujang-Glazed Meatloaf with Roasted Squash & Onion
+,"European, Spanish",2,Oven-Baked Beef & Saffron Couscous with Creamy Romesco Sauce & Almonds
+35.0,"Caribbean, Jamaican",2,Jerk Steaks & Scallion Biscuits with Lime-Mayo Slaw
+40.0,"Asian, Vietnamese",2,"Asian Turkey Meatballs with Sweet Chili Mayo, White Rice & Peanuts"
+,"Asian, Chinese",2,"Veggie Bao Buns with Mushrooms, Sesame Slaw & Blistered Shishitos"
+,"Asian, Korean",2,"Korean Tteok & Spicy Pork ""Ragù"" with Baby Bok Choy"
+,"European, Italian",2,Oven-Baked Cheesy Pesto Gnocchi with Spinach & Tomatoes
+,"Asian, Chinese",2,Sweet & Spicy Chicken with Snow Peas & Jasmine Rice
+,"European, Italian",2,Cheesy Tomato Gnocchi with Calabrian Chile & Spinach
+45.0,"North American, Midwest",2,Chicken Breasts & Creamy Dill Ranch with Roasted Potatoes & Lemon-Garlic Green Beans
+,,2,"Oven-Baked Creamy Truffle Gnocchi with Broccoli, Spinach & Parmesan"
+,"Asian, Japanese",2,Chicken & Broccoli Udon Stir-Fry with Scallions & Sesame Seeds
+,"European, Italian",2,"Spicy Baked Beef Bolognese with Garlic Pesto, Oregano & Pre-Cooked Rigatoni"
+,"Asian, Chinese",2,"Sweet & Spicy Chicken Thighs with Rice, Broccoli & Mushrooms"
+,"European, Spanish",2,Oven-Baked Spanish Chickpeas & Orzo with Artichokes & Romesco Mayo
+,"Middle Eastern, Lebanese",2,Shawarma-Spiced Turkey Kofta with Farro-Arugula Salad & Tahini Dressing
+35.0,"European, Italian",2,"Creamy Pesto Pasta with Roasted Squash, Spinach & Ricotta"
+,"North American, Other American",2,"Bacon & Cheddar Cheese Curd Burgers with Nectarine, Tomato & Romaine Salad"
+,"Asian, Chinese",2,Pork Lo Mein with Vegetables & Sesame Seeds
+,"North American, Cajun/Creole",2,Smoky Poblano Pork Sausage Meatballs with Vegetable Rice & Spicy Cajun Mayo
+,"Latin American, Mexican",2,Oven-Baked Chorizo & Black Bean Tacos with Monterey Jack & Cheddar Cheese
+,"North American, Other American",2,Steaks & Warm Lemon Salsa Verde with Roasted Broccoli & Sweet Potato
+45.0,"North American, Other American",2,Balsamic Chicken & Roasted Squash with Sautéed Broccoli
+30.0,"Asian, Other",2,"Shrimp Stir-Fry with Bok Choy, Carrots & White Rice"
+,"Middle Eastern, Other",2,Romesco Chicken & Poblano Pepper with Currant Couscous
+35.0,"Asian, Other",2,Asian Turkey Lettuce Wraps with Peanut Sauce & Mushrooms
+40.0,"Latin American, Mexican",2,"Sheet Pan Chipotle-Honey Salmon with Potatoes, Onion & Poblano Pepper"
+30.0,"Asian, Other",2,Sheet Pan Crispy Shrimp with Spicy Sesame Dressing & Pre-Cooked Rice
+,"European, Italian",2,"White Bean & Red Pepper Soup with Baby Kale, Romesco Sauce & Parmesan"
+15.0,"North American, Other American",2,Garlic-Tahini Chicken Wraps with Baby Kale & Dried Cherries
+,"Asian, Japanese",2,Mushroom & Hoisin Beef Burgers with Miso Mayo & Marinated Cucumber
+,"Asian, Other",2,Spicy Shrimp Lo Mein with Carrots & Bok Choy
+40.0,"Latin American, Mexican",2,Smoky Sausage Quesadillas with Sweet Potatoes & Creamy Scallion Dipping Sauce
+,"North American, South",2,"Crispy Chicken, Bacon & Ranch Sandwiches with Honey-Butter Corn on the Cob"
+30.0,"North American, Other American",2,Sheet Pan Garlic-Hoisin Cod with Brussels Sprouts & Sweet Potato
+,"Asian, Indian",2,Oven-Baked Butternut Squash & Chickpea Curry with Garlic Pita & Coconut Chips
+,"European, Italian",2,Oven-Baked Cheesy Italian Chicken with Garlic-Herb Sweet Potatoes & Green Beans
+,"European, Italian",2,"Pesto Shrimp Pasta with Zucchini, Feta & Pre-Cooked Rigatoni"
+35.0,"European, Italian",2,Flank Steaks & Mushroom Agrodolce with Roasted Squash & Brussels Sprouts
+,"Latin American, Mexican",2,15-Min Skillet Enchiladas with Cooked Pulled Chicken & Pinto Beans
+,"Latin American, Mexican",2,"Beef & Poblano Quesadillas with Guajillo, Guacamole & Elote-Style Corn"
+45.0,"Asian, Chinese",2,Miso Glazed Salmon with Veggie Fried Rice
+,,2,Apple & Goat Cheese Salad with Balsamic Tahini Dressing
+,"European, Italian",2,Italian Chicken & Pepper Pan Sauce with Mashed Potatoes & Green Beans
+,"North American, Southwest/Tex-Mex",2,Cheesy Pork Chorizo Enchiladas with Poblano Pepper & Rice
+40.0,"North American, Northeast",2,Crispy Chicken Thighs & Buffalo Sauce with Potato Wedges & Cabbage Slaw
+,"Asian, Chinese",2,Sweet & Spicy Chicken Stir-Fry with Rice & Snow Peas
+35.0,"Asian, Other",2,"Vietnamese-Style Ground Beef Bowls with Brown Rice, Spicy Mayo & Cilantro"
+,"Latin American, Mexican",2,Oven-Baked Chorizo & Black Bean Tacos with Jalapeño & Monterey Jack
+25.0,"European, Italian",2,"Shrimp & Veggie Couscous Bowls with Bell Pepper, Baby Kale & Feta"
+,"North American, Other American",2,Steaks & Brown Butter Sauce with Mashed Potatoes & Fried Rosemary
+,"North American, South",2,"Oven-Baked Cornbread Chili Casserole with Pinto Beans, Jalapeño & Sour Cream"
+,"Asian, Indian",2,Butter Chicken & Squash with Jasmine Rice 
+,"Asian, Other",2,"Peanut-Soy Rice Cakes with Spinach, Mushrooms & Chili Crisp"
+,"North American, South",2,"Oven-Baked Cornbread Chili Casserole with Pinto Beans, Cilantro Sauce & Jalapeño"
+,,2,"Cioppino Tagliatelle with Bay Scallops, Toasted Baguette & Garlic Aioli"
+40.0,"European, Italian",2,Sausage & Mushroom Gnocchi with Spinach & Garlic Pesto
+35.0,"Asian, Japanese",2,"Miso Pork & Udon Bake with Mushrooms, Spinach & Sesame Seeds"
+,"Asian, Other",2,"Taiwanese-Style Chicken with Jasmine Rice, Crispy Shallot, & Cilantro"
+15.0,"North American, Midwest",2,Buffalo Chicken Sandwich with Kale Salad & Guacamole Ranch Dressing
+,"Asian, Korean",2,"Crispy Korean-Style Chicken with Kimchi, Veggies & Pre-Cooked Rice"
+,"North American, Other American",2,Pear & Fig Kale Salad with Cheese Crisps & Pecan-Dijon Dressing
+,"North American, Southwest/Tex-Mex",4,"Oven-Baked Tomatillo Rice & Beans with Tomatoes, Jalapeño & Guacamole"
+,"Asian, Thai",2,Oven-Baked Sesame-Peanut Udon with Snow Peas & Spinach
+,,3,Spinach & Fresh Mozzarella Pizza with Lemon & Chile Honey
+,"Asian, Other",2,"Spicy Sesame Shrimp with Bok Choy, Carrots & Rice"
+,"North American, Other American",2,Prosciutto & Arugula Wraps with Fig-Dijon Mayo & Grand Cru Cheese
+,"North American, Northeast",2,"Mozzarella, Tomato & Peach Salad with Lemon-Fig Dressing & Almonds"
+35.0,"Asian, Chinese",2,"Sweet & Spicy Pork Rice Cakes with Spinach, Mushrooms & Sesame Seeds"
+25.0,"Asian, Indian",2,Indian Achaar Beef & Curry Spiced Rice with Creamy Cilantro Sauce
+35.0,"North American, Other American",2,Flank Steaks & Balsamic Onion Pan Sauce with Rosemary & Lemon Fingerling Potatoes
+,"Latin American, Mexican",4,Oven-Baked Ancho Pinto Beans & Rice with Guacamole & Tortillas
+,"North American, Other American",2,Baked Cheesy Pesto Chicken with Mashed Potatoes & Garlic-Herb Green Beans
+,"European, Italian",2,Pesto Chicken Pasta with Brussels Sprouts & Lemon Ricotta
+10.0,,2,Avocado & Blueberry Salad with Creamy Balsamic Vinaigrette
+45.0,"Asian, Vietnamese",2,Tofu Bánh Mì with Sesame-Roasted Broccoli
+,"Asian, Korean",2,"Oven-Baked Korean-Style Eggs & Rice with Spinach, Kimchi & Sesame Seeds"
+,"Latin American, Mexican",2,"Mexican-Spiced Chicken Thighs with Rice, Black Beans & Tomatillo Sauce"
+40.0,"Asian, Chinese",2,Glazed Pork Roast with Bok Choy & Carrot Fried Rice
+,"European, Greek",2,Greek-Style Chickpea & Couscous Bowl with Tzatziki & Feta
+,"European, Italian",2,Chicken Ragù & Creste di Gallo Pasta with Roasted Eggplants
+,"European, Italian",2,"Scallops over Creamy Lemon Fettuccine with Corn, Artichokes & Breadcrumbs"
+,"North American, Other American",2,Smoky Cheddar Cheeseburgers with Raspberry Jalapeño-Glazed Onion & Potato Wedges
+15.0,"European, Italian",2,Pancetta & Mushroom Tortellini with Spicy Garlic-Tomato Sauce
+,"Asian, Indian",4,Oven-Baked Chicken & Chickpea Curry with Naan & Coconut Chips
+,"North American, Other American",2,Seared Steaks & Lemon-Caper Butter with Oven Fries
+40.0,"Latin American, Mexican",2,Smoky Vegetable Enchiladas with Pinto Beans & Gouda Cheese
+,"Latin American, Mexican",2,Oven-Baked Chorizo & Black Bean Tacos with Cilantro Sauce & Sour Cream
+,"Latin American, Mexican",2,"Oven-Baked Tomatillo Chicken Thighs with Rice, Black Beans & Jalapeño"
+,"Asian, Other",2,Honey-Lime Tilapia with Bok Choy & Jasmine Rice 
+,"North American, Midwest",2,Flank Steaks & Cheesy Homemade Biscuits with Roasted Broccoli
+,"North American, Southwest/Tex-Mex",2,"Cheesy Baked Huevos Rancheros with Black Beans, Guacamole & Jalapeño"
+,"North American, South",2,Pork Chops & Brown Butter-Pecan Sauce with Cheesy Mashed Potatoes & Veggies
+35.0,"Asian, Chinese",2,Ponzu Shrimp & Scallion Rice with Bok Choy & Chili Crisp
+,"Middle Eastern, Other",2,"Shawarma-Spiced Lamb Pitas with Tzatziki, Feta Cheese & Mint"
+,"Latin American, Mexican",2,"Oven-Baked Butternut Squash Chili with Beans, Guajillo Sauce & Sour Cream"
+40.0,"North American, Other American",2,Grandma Pie with Garlicky Tomato Sauce & Mozzarella Cheese
+45.0,"North American, Other American",2,Truffle Honey White Pizza with Garlic & Onion
+,"Asian, Japanese",2,Oven-Baked Togarashi Chicken & Rice with Broccoli
+40.0,"North American, South",2,BBQ Pulled Pork Mac & Cheese with Smoky Breadcrumbs
+,"Asian, Chinese",2,"15-Min Bang Bang Chicken with Pre-Cooked Rice, Poblano Pepper & Peanuts"
+,"North American, Other American",2,"Fall Harvest Salad with Butternut Squash, Crispy Gouda & Tahini Dressing"
+,"Asian, Other",2,"Korean-Style Beef & Udon Bake with Bok Choy, Kimchi & Spicy Sesame Dressing"
+,"European, Italian",2,"Oven-Baked Gnocchi & Feta with Romesco Sauce, Tomatoes & Spinach"
+30.0,"North American, Southwest/Tex-Mex",2,"Tex-Mex Shrimp & Rice Bake with Corn, Peppers & Tomatillo Sour Cream"
+40.0,"North American, Northeast",2,Pork Roast & Pomegranate Pan Sauce with Roasted Vegetables & Pepitas
+,"European, Italian",2,Creamy Spinach & Artichoke Gnocchi with Goat Cheese
+55.0,"Asian, Japanese",2,Miso-Maple Chicken Thighs & Rice with Mushrooms & Spinach
+,,2,Oven-Baked Hoisin Eggs & Rice with Mushrooms & Snow Peas
+40.0,"North American, Northeast",2,Crispy Skin Salmon & Caper Mayo with Roasted Potatoes & Sautéed Veggies
+,"Latin American, Mexican",2,Smoky Pork Tacos with Sweet Potato Wedges & Jalapeño Sour Cream
+,"European, Italian",2,Salmon Piccata with Garlic Rice & Roasted Broccoli
+,"North American, Other American",2,"Oven-Baked BBQ Cheeseburgers with Sweet Potatoes, Sour Cream & Jalapeño"
+,"European, Italian",2,Basil Pesto Spaghettini with Corn & Tomatoes
+,"Asian, Indian",2,Oven-Baked Butternut Squash & Chickpea Curry with Garlic Naan & Peanuts
+30.0,"European, Italian",2,Creamy Romesco Chicken & Garlic Bread with Roasted Broccoli & Parmesan Cheese
+30.0,"Latin American, Mexican",2,Chorizo & Pinto Bean Tacos with Monterey Jack & Cheddar Cheese
