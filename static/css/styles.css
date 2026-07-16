@@ -1,0 +1,43 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.text-middle {
+    text-align: center !important;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+}
+
+/*Can not get this shit to work...*/
+.fixed-background {
+  /* Set the image source */
+  background-image: url('./static/assets/utensils4.jpg');
+  background-attachment: fixed;  /* Fix the image in relation to the viewport */
+  background-position: center;  /* Center the image within the container */
+  background-size: cover;   /* Scale the image to cover the entire container */
+  background-repeat: no-repeat;  /* Prevent the image from repeating */
+  /* Position and size the container to fill the whole screen */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;  /* Ensure the background is behind all other content */
+}
+
+/* Optional: Add styles to ensure your main content sits on top and is visible */
+.content-container {
+  position: relative;
+  z-index: 1;
+  /* Add padding or margins as needed */
+  padding-top: 50px;
+  color: black; /* Adjust text color for readability */
+}

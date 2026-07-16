@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+<!--Layout:
+        Full-width Picture, with Welcome Title+Passage over the top
+        ^ Below, have 3-_ "Cards" linking to RecipeSearch, NutritionMainPg and Journal
+        ^ ^ list a short description inside cards with some Icon for each-->
+
+{% block title %}
+<div class="container  px-4 py-5 my-5 text-center pb-2 border-bottom text-white">
+<!--    <img class="d-block mx-auto mb-4" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">-->
+    <h1 class="display-3 fw-bold">Welcome</h1>
+    <div class="col-lg-6 mx-auto py-2 ">
+      <p class="lead mb-4">
+          This is a website designed to make healthy eating fast and easy.
+          This is a website designed to make healthy eating fast and easy.
+          This is a website designed to make healthy eating fast and easy.
+      </p>
+    </div>
+</div>
+{% endblock %}
+
+{% block subtitle %}
+<!--May need Opacity (https://getbootstrap.com/docs/5.3/utilities/opacity/) and Object Fit https://getbootstrap.com/docs/5.3/utilities/object-fit/-->
+<div class="container px-4 justify-content-center">
+  <div class="row row-cols-1 row-cols-md-3  align-items-stretch">
+      <div class="col">
+        <div class="card card-cover col-11 mx-auto h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('static/assets/utensils2.webp');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
+            <h2 class=" mt-5 mb-4 display-4 lh-1 text-center fw-bold">Recipes</h2>
+            <ul class="d-flex list-unstyled mt-auto">
+              <li class="me-auto">
+                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
+              </li>
+              <li class="d-flex align-items-center me-3">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"></use></svg>
+                <small>Earth</small>
+              </li>
+              <li class="d-flex align-items-center">
+                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"></use></svg>
+                <small>3d</small>
+              </li>
+            </ul></div></div></div>
+      <div class="col">
+        <div class="card card-cover col-11 mx-auto h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('static/assets/utensils3.avif');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
+            <h2 class=" mt-5 mb-4 display-4 lh-1 text-center text-success fw-bold">Nutrients
+              <a href="{{ url_for('nutrients') }}" class="btn stretched-link"></a>
+            </h2>
+            <ul class="d-flex list-unstyled mt-auto">
+            </ul></div></div></div>
+      <div class="col">
+        <div class="card card-cover col-11 mx-auto h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('static/assets/utensils6.webp');">
+          <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
+            <h2 class=" mt-5 mb-4 display-4 lh-1 text-center fw-bold">Test</h2>
+            <ul class="d-flex list-unstyled mt-auto">
+              <a href="{{ url_for('test') }}" class="btn stretched-link"></a>
+            </ul></div></div></a></div>
+  </div>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container bg-light px-4 py-5 my-5 text-center ">
+<!--    <img class="d-block mx-auto mb-4" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">-->
+    <h1 class="display-5 fw-bold">Overview</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead mb-4">
+          Some text here?
+      </p>
+      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+        <p>This is where _ goes?</p>
+      </div>
+    </div>
+</div>
+{% endblock %}
+
+
+<body>
+</body>
+

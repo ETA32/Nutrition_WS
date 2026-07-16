@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+<!--Layout:
+        "Sticky Image" in background showing on sides, with white/cream/__ Page over it w/ Info
+        ^  Title = Pg Name ; maybe with other Image OR transparent background?
+        ^  Description Paragraph ;  List Functions, Defic/Excess Symps+Causes, etc. below
+        ^  General "Age" Table with how much people should eat of ___ per day/week/etc
+        ^ ^  Main Pg Table contains links to all Indiv Nutrients
+        ^ ^  Indiv Nutrients table has more in-depth variables (body size, etc.)
+        ^ ^  Indiv Nutrients have (extra?) table for Foods+Amounts
+       (?) Sidebar that opens (replaces left "img bg") while on Nutrient SubPgs***
+
+    Inherit All Indiv Nutrients, Vit & Min pages from "Nutrients Page"
+        ^  -->
+
+{% block title %}
+<div class="container bg-white px-4 py-5 my-5 text-center shadow-lg">
+<!--    <img class="d-block mx-auto mb-4" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">-->
+    <h1 class="display-5 fw-bold">Nutrients</h1>
+    <div class="col-lg-6 mx-auto">
+      <p class="lead mb-4">
+          Some text here?
+      </p>
+      <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+        <p>This is where nutrients go?</p>
+      </div>
+    </div>
+</div>
+{% endblock  %}
+
+{% block content  %}
+<div class="container bg-white py-4 px-4 text-center shadow-lg">
+    <h1 class="display-8 fw-bold py-4 px-4">Something goes here</h1>
+    <!--  Table ;  maybe add table-bordered (to <table>)  -->
+    <div class="table-responsive-xxl">
+    <table class="table table-hover caption-top">
+        <caption>Nutrient amounts by Age & Sex</caption>
+        <thead class="table-light">
+        <tr>
+          <th scope="col">Nutrients</th>
+          <th scope="col">Child: 1-3</th>
+          <th scope="col">Male:  4-8</th>
+          <th scope="col">Male:  9-13</th>
+          <th scope="col">Male: 14-18</th>
+          <th scope="col">Male: 19-30</th>
+          <th scope="col">Male: 31-50</th>
+          <th scope="col">Male: 51+</th>
+        </tr>
+      </thead>
+        <tbody class="table-group-divider">
+    <tr>
+      <th scope="row">Calories</th>
+      <td>1000</td>
+      <td>1200</td>
+      <td>1500</td>
+    </tr>
+    <tr>
+      <th scope="row">Protein</th>
+      <td>50</td>
+      <td>60</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <th scope="row">Carbs</th>
+      <td>50</td>
+      <td>60</td>
+      <td>70</td>
+    </tr>
+    <tr>
+      <th scope="row">Lipids</th>
+      <td>5</td>
+      <td>6</td>
+      <td>7</td>
+    </tr>
+  </tbody>
+    </table>
+    </div>
+</div>
+{% endblock  %}
+

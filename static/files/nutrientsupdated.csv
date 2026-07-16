@@ -1,0 +1,105 @@
+nutrient_id,name,unit_name,nutrient_nbr,rank
+1008,Energy,KCAL,208,300.0
+1062,Energy,kJ,268,400.0
+1005,"Carbohydrate, by difference",G,205,1110.0
+2039,Carbohydrates,G,956,1100.0
+1235,"Sugars, added",G,539,1540.0
+1063,"Sugars, Total",G,269.3,1500.0
+1013,Lactose,G,213,1900.0
+1084,"Fiber, insoluble",G,297,1260.0
+1082,"Fiber, soluble",G,295,1240.0
+1079,"Fiber, total dietary",G,291,1200.0
+2033,Total dietary fiber (AOAC 2011.25),G,293,1300.0
+2034,Insoluble dietary fiber (IDF),G,293.1,1310.0
+2035,Soluble dietary fiber (SDFP+SDFS),G,293.2,1320.0
+1068,Beta-glucans,G,276,999999.0
+1003,Protein,G,203,600.0
+1053,Adjusted Protein,G,257,700.0
+1085,Total fat (NLEA),G,298,900.0
+1004,Total lipid (fat),G,204,800.0
+1327,"Fatty acids, total monounsat., NLEA",G,691,999999.0
+1292,"Fatty acids, total monounsaturated",G,645,11400.0
+1328,"Fatty acids, total polyunsat., NLEA",G,692,999999.0
+1293,"Fatty acids, total polyunsaturated",G,646,12900.0
+1326,"Fatty acids, total sat., NLEA",G,690,999999.0
+1258,"Fatty acids, total saturated",G,606,9700.0
+1257,"Fatty acids, total trans",G,605,15400.0
+1269,PUFA 18:2,G,618,13100.0
+2016,PUFA 18:2 c,G,831,13150.0
+1309,"PUFA 18:2 c,t",G,668,13400.0
+1311,PUFA 18:2 CLAs,G,670,13300.0
+1307,PUFA 18:2 i,G,666,13350.0
+1316,"PUFA 18:2 n-6 c,c",G,675,13200.0
+1308,"PUFA 18:2 t,c",G,667,13500.0
+1270,PUFA 18:3,G,619,13900.0
+2018,PUFA 18:3 c,G,833,13910.0
+1404,"PUFA 18:3 n-3 c,c,c (ALA)",G,851,14000.0
+1321,"PUFA 18:3 n-6 c,c,c",G,685,14100.0
+1409,PUFA 18:3i,G,856,14200.0
+1276,PUFA 18:4,G,627,14250.0
+2026,PUFA 20:2 c,G,840,14250.0
+1313,"PUFA 20:2 n-6 c,c",G,672,14300.0
+1325,PUFA 20:3,G,689,14400.0
+2020,PUFA 20:3 c,G,835,14450.0
+1405,PUFA 20:3 n-3,G,852,14500.0
+1406,PUFA 20:3 n-6,G,853,14600.0
+1271,PUFA 20:4,G,620,14700.0
+1407,PUFA 20:4 n-3,G,854,14800.0
+1408,PUFA 20:4 n-6,G,855,14900.0
+2022,PUFA 20:4c,G,836,14750.0
+1278,PUFA 20:5 n-3 (EPA),G,629,15000.0
+2023,PUFA 20:5c,G,837,14950.0
+1410,PUFA 21:5,G,857,15100.0
+1334,PUFA 22:2,G,698,15100.0
+2021,PUFA 22:3,G,683,14675.0
+1411,PUFA 22:4,G,858,15160.0
+2024,PUFA 22:5 c,G,838,15150.0
+1280,PUFA 22:5 n-3 (DPA),G,631,15200.0
+2025,PUFA 22:6 c,G,839,15250.0
+1272,PUFA 22:6 n-3 (DHA),G,621,15300.0
+1087,"Calcium, Ca",MG,301,5300.0
+1096,"Chromium, Cr",UG,310,999999.0
+1098,"Copper, Cu",MG,312,6000.0
+1100,"Iodine, I",UG,314,6150.0
+1089,"Iron, Fe",MG,303,5400.0
+1090,"Magnesium, Mg",MG,304,5500.0
+1145,"Mercury, Hg",UG,370,999999.0
+1091,"Phosphorus, P",MG,305,5600.0
+1092,"Potassium, K",MG,306,5700.0
+1103,"Selenium, Se",UG,317,6200.0
+1093,"Sodium, Na",MG,307,5800.0
+1094,"Sulfur, S",MG,308,6241.0
+1095,"Zinc, Zn",MG,309,5900.0
+1283,Phytosterols,MG,636,15800.0
+1045,Salicylic acid,MG,249,4800.0
+1194,"Choline, free",MG,450,7230.0
+1180,"Choline, total",MG,421,7220.0
+1209,"Polyphenols, total",MG,470,999999.0
+1347,"Flavonoids, total",MG,729,999999.0
+1157,Carotene,MCG_RE,393,7600.0
+1108,"Carotene, alpha",UG,322,7450.0
+1107,"Carotene, beta",UG,321,7440.0
+2067,Vitamin A,UG,960,7430
+1105,Retinol,UG,319,7430.0
+1104,"Vitamin A, IU",IU,318,7500.0
+1106,"Vitamin A, RAE",UG,320,7420.0
+1165,Thiamin,MG,404,6400.0
+1166,Riboflavin,MG,405,6500.0
+1167,Niacin,MG,406,6600.0
+1169,Niacin equivalent N406 +N407,MG,409,999999.0
+1175,Vitamin B-6,MG,415,6800.0
+1190,"Folate, DFE",UG,435,7200.0
+1187,"Folate, food",UG,432,7100.0
+1177,"Folate, total",UG,417,6900.0
+1186,Folic acid,UG,431,7000.0
+1178,Vitamin B-12,UG,418,7300.0
+1162,"Vitamin C, total ascorbic acid",MG,401,6300.0
+1114,Vitamin D (D2 + D3),UG,328,8700.0
+1110,"Vitamin D (D2 + D3), International Units",IU,324,8650.0
+2059,Vitamin D4,UG,,8730.0
+1158,Vitamin E,MG_ATE,394,7800.0
+2068,Vitamin E,MG,959,7810
+1109,Vitamin E (alpha-tocopherol),MG,323,7905.0
+1124,Vitamin E (label entry primarily),IU,340,999999.0
+1183,Vitamin K (Menaquinone-4),UG,428,8950.0
+1185,Vitamin K (phylloquinone),UG,430,8800.0
